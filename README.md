@@ -1,0 +1,1 @@
+# Smart-primitive---Majority-in-Verilog-HDL
